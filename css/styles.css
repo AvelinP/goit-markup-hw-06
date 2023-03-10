@@ -775,3 +775,7 @@ body {
 .replace-checkbox svg {
   fill: var(--background-color-header-and-main);
 }
+
+.terms-and-conditions {
+  color: rgba(33, 150, 243, 1);
+}
